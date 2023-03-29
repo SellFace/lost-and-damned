@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "glass/combinepodglass001a"
+	"$surfaceprop" "metal"
+	"%keywords" "c17industrial"
+	"$additive" 1
+	"$nodecal" 0
+	$nocull 1
+}

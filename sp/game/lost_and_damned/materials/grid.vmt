@@ -1,0 +1,15 @@
+LightmappedGeneric
+{
+	$basetexture "dev/dev_measuregeneric_slick01"
+	$surfaceprop gravel
+
+        	"Proxies"
+        	{
+                	"TextureScroll"
+                	{
+                        	"texturescrollvar" "$baseTextureTransform"
+                        	"texturescrollrate" 0.55
+                        	"texturescrollangle" 0
+                	}
+        	}
+}

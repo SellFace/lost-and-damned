@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture" "sellface/jack"
+	"$selfillum" "0"
+	"$translucent" "1"
+	"$color" "{102 95 90}"
+}
+

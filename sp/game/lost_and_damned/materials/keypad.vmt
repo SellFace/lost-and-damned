@@ -1,0 +1,6 @@
+MonitorScreen
+{
+	"$basetexture"	"keypad"
+	"$translucent"	"1"
+	"$ignorez"	"1"
+}

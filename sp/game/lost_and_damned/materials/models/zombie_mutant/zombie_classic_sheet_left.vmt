@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Zombie_mutant/Zombie_Classic_sheet_left"
+	"$bumpmap" "Models/zombie_classic/zombie_classic_sheet_normal"
+	"$model" "1"
+	//"$phong" "1"
+	//"$phongboost" "-0.1"
+	"$halflambert" "1"
+	//"$phongexponenttexture" "Models/zombie_classic/zombie_classic_phong"
+	//"$phongalbedotint" "1"										
+	//"$phongfresnelranges"	"[1.9 1.9  2.1]"
+	//"$phongexponent" 30
+	"$selfillum" "1"
+	"$detail" "detail\noise_detail_01"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "-0.6"
+	"$detailScale" "7.5"
+	
+//
+
+//rimlight disabled for now, sunlight areas wreaking havoc
+	//rimlight parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "24"
+	"$rimlightboost" "-2.2"
+
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "condition_fine"
+	$additive 1
+	$selfillum 1
+	$surfaceprop gravel
+}

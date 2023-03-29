@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture "condition"
+	"$translucent" "1"
+	"$decal" "1"
+	$color "[.51 .51 .51]"
+}

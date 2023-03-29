@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+
+{
+	$basetexture 		"models/props_decoration/candlelight03a"
+	$model			"1"
+}

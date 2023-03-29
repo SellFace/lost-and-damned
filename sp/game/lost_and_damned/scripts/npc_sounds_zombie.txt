@@ -1,0 +1,293 @@
+"NPC_BaseZombie.PoundDoor"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/zombie/zombie_pound_door.wav"
+}
+
+"NPC_BaseZombie.Swat"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc/zombie/zombie_hit.wav"
+}
+
+"Zombie.FootstepRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.95"
+	"pitch"			"98, 102"
+
+	"soundlevel"	"SNDLVL_65db"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\walk\concrete1.wav"
+		"wave"	"player\footsteps\infected\walk\concrete2.wav"
+		"wave"	"player\footsteps\infected\walk\concrete3.wav"
+		"wave"	"player\footsteps\infected\walk\concrete4.wav"
+	}
+}
+
+"Zombie.FootstepLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.95"
+	"pitch"			"98, 102"
+
+	"soundlevel"	"SNDLVL_65db"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\walk\concrete1.wav"
+		"wave"	"player\footsteps\infected\walk\concrete2.wav"
+		"wave"	"player\footsteps\infected\walk\concrete3.wav"
+		"wave"	"player\footsteps\infected\walk\concrete4.wav"
+	}
+}
+
+"Zombie.ScuffRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.25"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_65db"
+
+	"rndwave"
+	{
+		"wave"	"npc/zombie/foot_slide1.wav"
+		"wave"	"npc/zombie/foot_slide2.wav"
+		"wave"	"npc/zombie/foot_slide3.wav"
+	}
+}
+
+"Zombie.ScuffLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.25"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_65db"
+
+	"rndwave"
+	{
+		"wave"	"npc/zombie/foot_slide1.wav"
+		"wave"	"npc/zombie/foot_slide2.wav"
+		"wave"	"npc/zombie/foot_slide3.wav"
+	}
+}
+
+"Zombie.AttackHit"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.95"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/zombie/claw_strike1.wav"
+		"wave"	"npc/zombie/claw_strike2.wav"
+		"wave"	"npc/zombie/claw_strike3.wav"
+	}
+}
+
+"Zombie.AttackMiss"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.95"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\miss\claw_miss_1.wav"
+		"wave"	"npc\infected\miss\claw_miss_2.wav"
+	}
+}
+
+"Zombie.Pain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"85, 104"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\action\been_shot\male\been_shot_32.wav"
+		"wave"	"npc\infected\action\been_shot\male\been_shot_33.wav"
+		"wave"	"npc\infected\action\been_shot\male\been_shot_34.wav"
+		"wave"	"npc\infected\action\been_shot\male\been_shot_35.wav"
+		"wave"	"npc\infected\action\been_shot\male\been_shot_36.wav"
+		"wave"	"npc\infected\action\been_shot\male\been_shot_37.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_01.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_02.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_04.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_12.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_13.wav"
+		"wave"	"npc\infected\action\been_shot\been_shot_14.wav"
+	}
+}
+
+"Zombie.Alert"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"85, 104"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\alert\alert\male\alert50.wav"
+		"wave"	"npc\infected\alert\alert\male\alert51.wav"
+		"wave"	"npc\infected\alert\alert\male\alert52.wav"
+		"wave"	"npc\infected\alert\alert\male\alert53.wav"
+		"wave"	"npc\infected\alert\alert\male\alert54.wav"
+		"wave"	"npc\infected\alert\alert\male\alert55.wav"
+		"wave"	"npc\infected\alert\becomealert\male\become_alert60.wav"
+		"wave"	"npc\infected\alert\becomealert\male\become_alert61.wav"
+		"wave"	"npc\infected\alert\becomealert\male\become_alert62.wav"
+		"wave"	"npc\infected\alert\becomealert\male\become_alert63.wav"
+		"wave"	"npc\infected\alert\becomealert\become_alert01.wav"
+		"wave"	"npc\infected\alert\becomealert\become_alert17.wav"
+		"wave"	"npc\infected\alert\becomealert\become_alert12.wav"
+		"wave"	"npc\infected\alert\becomealert\become_alert56.wav"
+		"wave"	"npc\infected\alert\becomealert\become_alert57.wav"
+	}
+}
+
+"Zombie.Idle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.75"
+	"pitch"		"82, 105"
+
+	"soundlevel"	"SNDLVL_65db"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\idle\breathing\breathing01.wav"
+		"wave"	"npc\infected\idle\breathing\breathing08.wav"
+		"wave"	"npc\infected\idle\breathing\breathing09.wav"
+		"wave"	"npc\infected\idle\breathing\breathing10.wav"
+		"wave"	"npc\infected\idle\breathing\breathing13.wav"
+		"wave"	"npc\infected\idle\breathing\breathing16.wav"
+		"wave"	"npc\infected\idle\breathing\idle_breath_01.wav"
+		"wave"	"npc\infected\idle\breathing\idle_breath_02.wav"
+		"wave"	"npc\infected\idle\moaning\moan02.wav"
+		"wave"	"npc\infected\idle\moaning\moan03.wav"
+		"wave"	"npc\infected\idle\moaning\moan04.wav"
+		"wave"	"npc\infected\idle\breathing\breathing25.wav"
+		"wave"	"npc\infected\idle\breathing\breathing26.wav"
+		"wave"	"npc\infected\idle\moaning\moan05.wav"
+	}
+}
+
+"Zombie.Die"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"85, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+	"rndwave"
+	{
+		"wave"	"npc\infected\action\die\male\death_40.wav"
+		"wave"	"npc\infected\action\die\male\death_41.wav"
+		"wave"	"npc\infected\action\die\male\death_42.wav"
+		"wave"	"npc\infected\action\die\male\death_43.wav"
+		"wave"	"npc\infected\action\die\male\death_44.wav"
+		"wave"	"npc\infected\action\die\male\death_45.wav"
+		"wave"	"npc\infected\action\die\male\death_46.wav"
+		"wave"	"npc\infected\action\die\male\death_47.wav"
+		"wave"	"npc\infected\action\die\male\death_48.wav"
+		"wave"	"npc\infected\action\die\male\death_49.wav"
+		"wave"	"npc\infected\action\die\death_19.wav"
+		"wave"	"npc\infected\action\die\death_18.wav"
+		"wave"	"npc\infected\action\die\death_17.wav"
+		"wave"	"npc\infected\action\die\death_14.wav"
+		"wave"	"npc\infected\action\die\death_24.wav"
+	}
+}
+
+"Zombie.Attack"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.600"
+	"pitch"			"70, 100"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim20.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim21.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim22.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim23.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim24.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim25.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim26.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim27.wav"
+		"wave"	"npc\infected\action\rageat\male\rage_at_victim28.wav"
+		"wave"	"npc\infected\action\rageat\rage_at_victim01.wav"
+		"wave"	"npc\infected\action\rageat\rage_at_victim02.wav"
+	}
+}
+ 
+ "NPC_BaseZombie.Moan1"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc\infected\idle\moaning\moan02.wav"
+}
+
+ "NPC_BaseZombie.Moan2"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc\infected\idle\moaning\moan03.wav"
+
+ "NPC_BaseZombie.Moan3"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc\infected\idle\moaning\moan01.wav"
+}
+
+ "NPC_BaseZombie.Moan4"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"0.95"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"npc\infected\idle\moaning\moan04.wav"
+}
+

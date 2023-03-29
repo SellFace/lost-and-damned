@@ -1,0 +1,10 @@
+SDK_LightmappedGeneric
+{
+	"$basetexture" "metal/citadel_metalwall077a"
+	"$surfaceprop" "metal"
+	"$detail" "metal/citadel_metalwall072c"	
+	"$color" "{164 170 215}"
+	$detailscale 1.5
+	$detailblendfactor 1.00
+	$detailblendmode 0
+}

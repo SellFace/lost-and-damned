@@ -1,0 +1,6 @@
+MonitorScreen
+{
+	"$basetexture"	"maze_map"
+	"$translucent"	"1"
+	"$ignorez"	"1"
+}

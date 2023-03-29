@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture"	"logo"
+	"$selfillum"	"1"
+	"$translucent"	"1"
+}

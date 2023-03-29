@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Zombie_Fast/fast_zombie_sheet"
+	"$alphatest" 1
+	"$bumpmap" "models/zombie_fast/fast_zombie_sheet_normal"
+	"$surfaceprop" "flesh"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" 22
+	//"$phongexponenttexture" "Models/zombie_fast/fast_zombie_phong"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.4 2.1 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "-214"
+	"$rimlightboost" "-1131"
+	"$detail" "models/Zombie_Fast/fast_zombie_sheet"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1.6"
+	"$detailScale" "4.2"
+	"$color" "[237 0 0]"
+}

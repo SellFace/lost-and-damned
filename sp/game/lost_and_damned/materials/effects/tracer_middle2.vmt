@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "effects/tracer_middle2"
+	"$additive" 1
+	"$color" "{254 8 51}"
+}

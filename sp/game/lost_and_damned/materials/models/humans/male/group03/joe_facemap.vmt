@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Male/Group01/joe_facemap"
+	"$halflambert" 1
+	"$detail" "decals/bloodstain_002"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1.1"
+	"$detailScale" "0.8"
+}

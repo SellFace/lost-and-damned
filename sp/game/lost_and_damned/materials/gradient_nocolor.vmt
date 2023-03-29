@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture"	"gradient_nocolor"
+	"$selfillum"	"1"
+	"$additive"	"1"
+}

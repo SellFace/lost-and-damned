@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	"$basetexture"	"key_old"
+	"$translucent"	"1"
+	$color "[0.31 0.31 0.31]"
+}

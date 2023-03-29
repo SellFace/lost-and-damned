@@ -1,0 +1,23 @@
+"chapters"
+
+{
+
+	1	"main_menu"
+	
+	2	"main_menu"
+	
+	3	"main_menu"
+	
+	4	"main_menu"
+	
+	5	"main_menu"
+	
+	6	"main_menu"
+	
+	7	"main_menu"
+	
+	8	"main_menu"
+	
+	9	"main_menu"
+	
+}

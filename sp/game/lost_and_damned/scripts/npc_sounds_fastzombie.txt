@@ -1,0 +1,304 @@
+"NPC_FastZombie.LeapAttack"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.400"
+	"pitch"			"60, 95"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\infected\action\shoved\mp\shoved_16.wav"
+		"wave"			"npc\infected\action\shoved\mp\shoved_08.wav"
+		"wave"			"npc\infected\action\shoved\mp\shoved_06.wav"
+		"wave"			"npc\infected\action\shoved\mp\shoved_05.wav"
+	}
+}
+
+"NPC_FastZombie.FootstepRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\run\metal1.wav"
+	}
+}
+
+"NPC_FastZombie.FootstepLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_IDLE"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\run\metal1.wav"
+		"wave"	"player\footsteps\infected\run\metal2.wav"
+		"wave"	"player\footsteps\infected\run\metal3.wav"
+	}
+}
+
+"NPC_FastZombie.AttackHit"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"95, 105"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc/fast_zombie/claw_strike1.wav"
+		"wave"	"npc/fast_zombie/claw_strike2.wav"
+		"wave"	"npc/fast_zombie/claw_strike3.wav"
+	}
+}
+
+"NPC_FastZombie.AttackMiss"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"100, 115"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"npc\infected\miss\claw_miss_1.wav"
+		"wave"	"npc\infected\miss\claw_miss_2.wav"
+	}
+}
+
+"NPC_FastZombie.Attack"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.800"
+	"pitch"			"60, 75"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"player\hunter\voice\attack\hunter_shred_01.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_02.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_03.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_04.wav"
+	}
+}
+
+"NPC_FastZombie.Pain"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.600"
+	"pitch"			"110, 135"
+
+	"soundlevel"		"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\infected\action\been_shot\female\been_shot_30.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_31.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_32.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_33.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_34.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_35.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_36.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_37.wav"
+	}
+}
+
+"NPC_FastZombie.Die"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"0.600"
+	"pitch"			"75, 125"
+
+	"soundlevel"		"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\infected\action\die\female\death_40.wav"
+		"wave"			"npc\infected\action\die\female\death_41.wav"
+		"wave"			"npc\infected\action\die\female\death_42.wav"
+		"wave"			"npc\infected\action\die\female\death_43.wav"
+		"wave"			"npc\infected\action\die\female\death_44.wav"
+		"wave"			"npc\infected\action\die\female\death_45.wav"
+		"wave"			"npc\infected\action\die\female\death_46.wav"
+		"wave"			"npc\infected\action\die\female\death_47.wav"
+	}
+}
+
+"NPC_FastZombie.Idle"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.600"
+	"pitch"			"75, 155"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\infected\action\been_shot\female\been_shot_31.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_32.wav"
+		"wave"			"npc\infected\action\been_shot\female\been_shot_33.wav"
+	}
+}
+
+"NPC_FastZombie.AlertFar"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"45, 65"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"player\hunter\voice\warn\hunter_warn_10.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_14.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_16.wav"
+	}
+}
+
+"NPC_FastZombie.AlertNear"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"35, 65"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\infected\alert\becomealert\howl01.wav"
+		"wave"			"player\hunter\voice\alert\hunter_alert_05.wav"
+		"wave"			"player\hunter\voice\alert\hunter_alert_04.wav"
+		"wave"			"player\hunter\voice\alert\hunter_alert_03.wav"
+		"wave"			"player\hunter\voice\alert\hunter_alert_02.wav"
+	}
+}
+
+"NPC_FastZombie.GallopLeft"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\run\concrete1.wav"
+		"wave"	"player\footsteps\infected\run\concrete2.wav"
+	}
+}
+
+"NPC_FastZombie.GallopRight"
+{
+	"channel"		"CHAN_BODY"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"	"player\footsteps\infected\run\concrete3.wav"
+		"wave"	"player\footsteps\infected\run\concrete4.wav"
+	}
+}
+
+"NPC_FastZombie.Scream"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"65, 155"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"player\hunter\voice\attack\shriek_1.wav"
+}
+
+"NPC_FastZombie.RangeAttack"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"75, 135"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"player\hunter\voice\attack\hunter_shred_01.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_02.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_03.wav"
+		"wave"			"player\hunter\voice\attack\hunter_shred_04.wav"
+	}
+}
+
+"NPC_FastZombie.Frenzy"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"75, 155"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"player\hunter\voice\warn\hunter_warn_10.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_14.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_16.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_17.wav"
+		"wave"			"player\hunter\voice\warn\hunter_warn_18.wav"
+	}
+}
+
+"NPC_FastZombie.Moan1"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"55, 115"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"npc\zombie_poison\pz_breathe_loop1.wav"
+		"wave"			"npc\zombie_poison\pz_breathe_loop1.wav"
+	}
+}
+
+
+"NPC_FastZombie.Gurgle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"VOL_NORM"
+	"pitch"			"125, 145"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"rndwave"
+	{
+		"wave"			"player\hunter\voice\attack\lunge_scream_loop_1.wav"
+		"wave"			"player\hunter\voice\attack\lunge_scream_loop_2.wav"
+	}
+}
+
+"NPC_FastZombie.NoSound"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"			"common/null.wav"
+}

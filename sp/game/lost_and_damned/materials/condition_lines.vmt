@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "condition_lines"
+	"$translucent" "1"
+}

@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture" "plaster/wallpaper002a"
+	"$color" "{52 55 140}"
+	"$detail" "wood/woodwall032g"
+	"$detailblendmode" "0"
+	"$detailblendfactor" ".51"
+	"$detailScale" "1"
+}
+

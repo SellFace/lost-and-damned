@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Humans/Male/Group01/citizen_sheet"
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongboost" "0.7"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[1.9 1.9  0.1]"
+	"$phongexponent" 30
+	"$model" "1"
+	"$detail" "detail\metal_detail_01"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1.0"
+	"$detailScale" "9.5"
+}

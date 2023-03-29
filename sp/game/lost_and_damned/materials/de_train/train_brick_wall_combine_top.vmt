@@ -1,0 +1,10 @@
+SDK_LightmappedGeneric
+{
+	"$basetexture" "de_train/train_brick_wall_04"
+	"$surfaceprop" "metal"
+	"$detail" "metal/citadel_metalwall077a"	
+	"$color" "{114 120 141}"
+	$detailscale 1
+	$detailblendfactor 1.15
+	$detailblendmode 0
+}

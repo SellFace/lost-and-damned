@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$baseTexture "models/hybridPhysx/helicopter_news_adj"
+	"$model" "1"
+	"$phong" "1"
+	"$phongboost" "5"
+	"$halflambert" "1"
+	"$phongexponenttexture" "models/combine_soldier/combine_elite_phong"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .5  1]"
+	$reflectivity "[1 1 1]"
+}

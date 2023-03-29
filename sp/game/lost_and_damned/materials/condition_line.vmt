@@ -1,0 +1,18 @@
+UnlitGeneric
+{
+	$basetexture "condition_line"
+	"$selfillum" "1"
+	"$translucent" "1"
+	$surfaceprop gravel
+	$color "[0 0 0]"
+
+        	"Proxies"
+        	{
+                	"TextureScroll"
+                	{
+                        	"texturescrollvar" "$baseTextureTransform"
+                        	"texturescrollrate" -0.95
+                        	"texturescrollangle" 0
+                	}
+        	}
+}

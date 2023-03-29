@@ -1,0 +1,10 @@
+"MapbaseRPC"
+{
+	// Discord application ID
+	// Change this if you want something other than "Mapbase" to show up on players' Discord clients.
+	discord_appid "1035583522544553986"
+
+
+	discord_largeimage "neat_icon"
+	discord_largeimage_text "Lost and Damned"
+}
