@@ -287,6 +287,13 @@ extern "C" {
 
 #define ACHIEVEMENT_TF_LAST_ORANGEBOX				150
 
+//LostandDamned
+
+#define ACH_CAMP_BEAT_GAME							200
+#define	ACH_CAMP_BEAT_GAMEONEHOUR					201
+#define ACH_CHEL_BEAT_DRUNK							202
+#define ACH_CHEL_BEAT_MASSACRE						203
+
 //
 // Stats view ids
 //

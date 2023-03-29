@@ -1,0 +1,27 @@
+//====== Copyright © HardBassKvasRaskolbas, All rights reserved. =======
+//
+// Purpose: Lost and Damned Formatted Game Data (.fgd) 
+//
+//=============================================================================
+
+@PointClass base(Targetname, EnableDisable) iconsprite("vizzys-icons/logic_achievement") = logic_achievement :
+	"Sends an achievement system related event from the map to the achievement system."
+[
+	//keyvalues
+	
+	AchievementEvent(choices) : "Achievement Event" : 0 : "Named event is sent to the achievement system when this entity receives a 'FireEvent' input." =
+	[
+		"ACH_CAMP_BEAT_GAME"					: "Finish the Game."
+		"ACH_CAMP_BEAT_GAMEONEHOUR"				: "Finish the Game under 1 horas."
+
+		"ACH_CHEL_BEAT_DRUNK"					: "Finish the Challenge map under the influence of alcohol."
+		"ACH_CHEL_BEAT_MASSACRE"				: "Survive an Onslaught on Challenge map."
+	]
+
+	// Inputs
+	input Toggle(void) : "Toggle the relay between enabled and disabled."
+	input FireEvent(void) : "Tells the achievement system the specifed event has occured."
+	
+	// Outputs
+	output OnFired(void) : "When the event fires, this fires."
+]
