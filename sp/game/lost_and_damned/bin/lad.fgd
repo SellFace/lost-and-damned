@@ -11,10 +11,19 @@
 	
 	AchievementEvent(choices) : "Achievement Event" : 0 : "Named event is sent to the achievement system when this entity receives a 'FireEvent' input." =
 	[
-		"ACH_CAMP_BEAT_GAME"					: "Finish the Game."
-		"ACH_CAMP_BEAT_GAMEONEHOUR"				: "Finish the Game under 1 horas."
-		"ACH_CHEL_BEAT_DRUNK"					: "Finish the Challenge map under the influence of alcohol."
-		"ACH_CHEL_BEAT_MASSACRE"				: "Survive an Onslaught on Challenge map."
+		"ACHIEVEMENT_EVENT_CAMP_BEAT_GAME"					: "Finish the Game."
+		"ACHIEVEMENT_EVENT_CAMP_BEAT_GAMEONEHOUR"			: "Beat the Game under 1 horas."
+		"ACHIEVEMENT_EVENT_CAMP_BEAT_GAMEOPERMADEATH"		: "Beat the Game without Saving."
+		"ACHIEVEMENT_EVENT_CAMP_GET_SHOTGUN"				: "Get a Shotgun."
+		"ACHIEVEMENT_EVENT_CAMP_GET_DRUNK"					: "Consume 10 bottles of Wine."
+		"ACHIEVEMENT_EVENT_CAMP_DRUNK_DEATH"				: "Die from drunkness."
+		"ACHIEVEMENT_EVENT_CAMP_BEAT_MAZE"					: "Complete the Maze without alrerting it's resident."
+		"ACHIEVEMENT_EVENT_CAMP_DMGD_BYBOSS1"				: "Get Yeeted Up."
+		"ACHIEVEMENT_EVENT_CAMP_DMG_BOSS2"					: "Make the Big Bad catch Fire."
+		"ACHIEVEMENT_EVENT_CAMP_KILL_BOSS2"					: "Deafeat the Big Bad within 20 seconds."
+		"ACHIEVEMENT_EVENT_CAMP_COLLECT_AMMO"				: "Store over 100 Pistol Rounds and 20 Shotgun Shells at the same time."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_DRUNK"					: "Finish the Challenge map under the influence of alcohol."
+		"ACHIEVEMENT_EVENT_CAMP_KILL_CROWBAR"				: "Kill 15 enemies with a Crowbar."
 	]
 
 	// Inputs
