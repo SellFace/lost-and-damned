@@ -22,8 +22,16 @@
 		"ACHIEVEMENT_EVENT_CAMP_DMG_BOSS2"					: "Make the Big Bad catch Fire."
 		"ACHIEVEMENT_EVENT_CAMP_KILL_BOSS2"					: "Deafeat the Big Bad within 20 seconds."
 		"ACHIEVEMENT_EVENT_CAMP_COLLECT_AMMO"				: "Store over 100 Pistol Rounds and 20 Shotgun Shells at the same time."
-		"ACHIEVEMENT_EVENT_CHEL_BEAT_DRUNK"					: "Finish the Challenge map under the influence of alcohol."
 		"ACHIEVEMENT_EVENT_CAMP_KILL_CROWBAR"				: "Kill 15 enemies with a Crowbar."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_ZOMBIEGHOSTS"			: "Finish the Challenge map by eradicating the Manor of the Zombie Ghosts."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_DRUNK"					: "Finish the Challenge map under the influence of alcohol."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_WARDEN"				: "Finish the Challenge map by surviving an onslaught in Cell Block."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_SURVIVAL"				: "Finish the Challenge map by surviving an onslaught in Last Stand."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_BLEEDER"				: "Finish the Challenge map by making it through on low health."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_LASERS"				: "Finish the Challenge map by going through the Laser Trap."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_GIRLIE"				: "Finish the Challenge map by protecting a Girl."
+		"ACHIEVEMENT_EVENT_CHEL_BEAT_FIRSTPERSONPOOPER"		: "Finish the Challenge map by playing First Person mode. Huh..."
+		"ACHIEVEMENT_EVENT_ALL"								: "Salutations! You got all the achievements. Be proud."
 	]
 
 	// Inputs
